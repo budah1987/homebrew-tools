@@ -2,8 +2,8 @@ class Workspace < Formula
   desc "cmux workspace launcher — file explorer + AI agent + git + live preview"
   homepage "https://gist.github.com/budah1987/4bf9a1235637b7e80b8673ba083a7337"
   url "https://gist.githubusercontent.com/budah1987/4bf9a1235637b7e80b8673ba083a7337/raw/workspace.sh"
-  sha256 "ef3ddf2fdb568da42c9986d2ad2861de2555cad1915f4d092ed43f9785aa4902"
-  version "3.0.0"
+  sha256 "3816518f9181c2479602f365061209dc22a9017575df529e3f7628e7705eb956"
+  version "3.1.0"
   license "MIT"
 
   depends_on "ffmpeg"
